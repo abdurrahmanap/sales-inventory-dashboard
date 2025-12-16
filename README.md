@@ -26,7 +26,7 @@
 
 > **AI Prediction**
 
-![AI Prediction Screenshot](assets/screenshot_prediksi__stok_ai.png)
+![AI Prediction Screenshot](assets/screenshot_prediksi_stok_ai.png)
 
 > **Transaction History & Export**
 
