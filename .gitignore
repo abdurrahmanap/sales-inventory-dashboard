@@ -1,11 +1,3 @@
-# Abaikan folder virtual environment
-venv/
-.env
-
-# Abaikan file cache python
+.venv/
 __pycache__/
-*.pyc
-
-# Abaikan database (Opsional: Jika ingin database selalu fresh)
-# Tapi untuk DEMO ke rekruter, boleh Anda hapus baris ini agar data dummy ikut ter-upload
-# *.db
+*.db
