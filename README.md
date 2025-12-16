@@ -18,19 +18,19 @@
 
 > **Dashboard Overview**
 
-![Dashboard Screenshot](assets/screenshots_dashboard.png)
+![Dashboard Screenshot](assets/screenshot_dashboard.png)
 
 > **Stock Management**
 
-![Stock Management Screenshot](assets/screenshots_manajemen_stok.png)
+![Stock Management Screenshot](assets/screenshot_manajemen_stok.png)
 
 > **AI Prediction**
 
-![AI Prediction Screenshot](assets/screenshots_prediksi__stok_ai.png)
+![AI Prediction Screenshot](assets/screenshot_prediksi__stok_ai.png)
 
 > **Transaction History & Export**
 
-![Transaction History & Export Screenshot](assets/screenshots_riwayat_transaksi.png)
+![Transaction History & Export Screenshot](assets/screenshot_riwayat_transaksi.png)
 
 ---
 
